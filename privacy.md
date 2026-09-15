@@ -33,3 +33,4 @@ This application's use of information received from Google APIs adheres to the G
 ## Contact
 
 Questions may be submitted through the [magic-luna GitHub profile](https://github.com/magic-luna).
+
